@@ -19,3 +19,8 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+vendor/bundle
+/.idea
+.idea/inspectionProfiles/Project_Default.xml
+
